@@ -9,7 +9,7 @@
   - Module 2
     - Asymptotic analysis, "big O" notation, pseudocode, breadth-first search
     - Connected components, graph resilience, and analysis of computer networks
-   
+
 2. Algorithmic Thinking (Part 2)
    - Module 3
      - Sorting, searching, big-O notation, the Master Theorem
